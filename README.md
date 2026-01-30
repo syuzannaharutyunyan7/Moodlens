@@ -34,9 +34,6 @@ Intent: Reflection
 
 📁 Session saved to logs/mood_history.txt
 ```
-
-See? It’s like your personal mood assistant.
-
 ---
 
 ## Logs
@@ -60,9 +57,4 @@ It’s kind of fun to look back and see how your moods and thoughts have changed
 * Create charts or summaries to see your mood trends over time
 
 ---
-
-MoodLens is small, simple, and a little fun. It’s kind of satisfying to watch it “read” your feelings from just a few words. Give it a try and see what it thinks about your day! 😊
-
----
-
 
